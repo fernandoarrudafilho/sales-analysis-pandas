@@ -29,6 +29,14 @@ This project performs a descriptive analysis of a sales dataset using Python and
 - Some products dominate demand
 - Gender differences in purchase behavior
 - One payment method stands out
+- The majority of sales are concentrated in a few product categories.
+- Certain products dominate overall demand.
+- There is a noticeable difference in purchase frequency between genders.
+- One payment method stands out as the most preferred by customers.
+
+## 📌 Conclusion
+
+This analysis highlights key patterns in customer behavior and product performance. These insights can support data-driven decisions in marketing, inventory management, and sales strategy.
 
 ## 🚀 Author
 Fernando Filho
